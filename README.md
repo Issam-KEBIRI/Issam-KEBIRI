@@ -3,9 +3,9 @@
 <h1 align="center">Hi there ! I'm Issam KEBIRI</h1>
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/kebiri-isam-dine?logo=trustpilot&logoColor=black&style=social)
-![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKebiri-isam-dine&count_bg=%23A01212&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub User's stars](https://img.shields.io/github/stars/Issam-KEBIRI?logo=trustpilot&logoColor=black&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Issam-KEBIRI?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIssam-KEBIRI&count_bg=%23A01212&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/issam-kebiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kebiri-isam-dine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/issam-kebiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Issam-KEBIRI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,10 +53,10 @@
 
 <hr/>
 
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebiri-isam-dine&theme=radical" alt="kebiri-isam-dine" /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Issam-KEBIRI&theme=radical" alt="Issam-KEBIRI" /></p>
 
-<p><img src="https://github-readme-statsss-sigma.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en&theme=radical" alt="kebiri-isam-dine" /></p>
+<p><img src="https://github-readme-statsss-sigma.vercel.app/api?username=Issam-KEBIRI&show_icons=true&locale=en&theme=radical" alt="Issam-KEBIRI" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kebiri-isam-dine&theme=radical" alt="kebiri-isam-dine" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Issam-KEBIRI&theme=radical" alt="Issam-KEBIRI" /></p>
   
-<p><img src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=kebiri-isam-dine&show_icons=true&locale=en&layout=compact&theme=radical" alt="kebiri-isam-dine" /></p>
+<p><img src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=Issam-KEBIRI&show_icons=true&locale=en&layout=compact&theme=radical" alt="Issam-KEBIRI" /></p>
