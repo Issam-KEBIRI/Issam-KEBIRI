@@ -55,8 +55,8 @@
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Issam-KEBIRI&theme=radical" alt="Issam-KEBIRI" /></p>
 
-<p><img src="https://github-readme-statsss-sigma.vercel.app/api?username=Issam-KEBIRI&show_icons=true&locale=en&theme=radical%22%20alt=%22Issam-KEBIRI" alt="Issam-KEBIRI" /></p>
+<p><img src="https://github-readme-statsss-sigma.vercel.app/api?username=Issam-KEBIRI&show_icons=true&locale=en&theme=radical" alt="Issam-KEBIRI" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Issam-KEBIRI&theme=radical%22%20" alt="%22Issam-KEBIRI" /></p>
-  
 <p><img src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=Issam-KEBIRI&show_icons=true&locale=en&layout=compact&theme=radical" alt="Issam-KEBIRI" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Issam-KEBIRI&theme=radical" /></p>
